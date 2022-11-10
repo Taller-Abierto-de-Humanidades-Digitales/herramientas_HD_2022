@@ -20,5 +20,6 @@ repositorio para compartir datos, documentos y archivos para el curso de herrami
 
 * Plataforma Omeka: [FD-IBERO 2022](http://157.245.245.48/omekas)
 * Manual de usuario: [Omeka](https://omeka.org/s/docs/user-manual/)
+* Instrucciones para ingresar a la plataforma: [instrucciones](2-omeka.md#instrucciones-para-ingresar-a-omeka)
 
 [//]: # (<>)
